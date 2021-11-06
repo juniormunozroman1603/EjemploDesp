@@ -1,10 +1,10 @@
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
-              <h2>Esta es la aplicacion de Php a desplegaar</h2>
+              <h2>Esta es la aplicacion de Php a desplegar</h2>
                 <p>For instructions on how to use this application with OpenShift, start by reading the <a href="http://docs.okd.io/latest/dev_guide/templates.html#using-the-quickstart-templates">Developer Guide</a>.</p>
 
-              <h2>Deploying code changes v2.0</h2>
+              <h2>Deploying desde integracion continua v3.0</h2>
                 <p>
                   The source code for this application is available to be forked from the <a href="https://www.github.com/sclorg/cakephp-ex">OpenShift GitHub repository</a>.
                   You can configure a webhook in your repository to make OpenShift automatically start a build whenever you push your code:
